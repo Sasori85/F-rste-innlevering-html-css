@@ -1,0 +1,50 @@
+h1 {
+    color:rgb(250, 0, 0);
+    text-align:center;
+    font-family: fantasy;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+ body {
+     background-image: 
+     url(https://wallpapercave.com/wp/WAWf4Yi.jpg);
+    background-position:unset;
+}
+
+
+p {
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    height: 175px;
+    position: absolute;
+    top: 20%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+
+a.one {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 37%;
+    right: 42%;
+}
+
+img.two {
+    position: absolute;
+    top: 10%;
+    right: 1%;
+}
+
+img.three {
+    position: absolute;
+    width: 300px;
+    height: 230px;
+    top: 10%;
+}
+    
+
+
+
+    
